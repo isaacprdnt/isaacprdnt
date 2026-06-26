@@ -68,7 +68,7 @@ Je construis des ponts entre la technique, le business et l'humain. J'utilise la
 
 ## 📂 Projets Data
 
-> Pour une version visuelle et synthétique de chaque projet, retrouvez l'ensemble sur mon portfolio : **[isaacprdnt.com/projets-data](https://isaacprdnt.com/projets-data)**
+> Pour une version visuelle et synthétique de chaque projet, retrouvez l'ensemble sur mon portfolio : **[isaacprdnt.com](https://isaacprdnt.com)** (ou directement sur la **[page projets](https://isaacprdnt.com/projets-data)**)
 
 ---
 
