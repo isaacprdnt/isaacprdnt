@@ -1,10 +1,16 @@
-# 👋 Bonjour, je suis Isaac Prudent
+<div align="center">
+
+# 👋 Isaac Prudent
 
 ### Business & Data Analyst | 10 ans d'expérience business | Genève / Saint-Julien-en-Genevois
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-isaacprdnt.com-orange?style=flat-square)](https://isaacprdnt.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--prdnt-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/isaac-prdnt/)
-[![Email](https://img.shields.io/badge/Email-isaac.prdnt@gmail.com-red?style=flat-square&logo=gmail)](mailto:isaac.prdnt@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-isaacprdnt.com-E8784A?style=for-the-badge)](https://isaacprdnt.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaac--prdnt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-prdnt/)
+[![Email](https://img.shields.io/badge/Email-isaac.prdnt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac.prdnt@gmail.com)
+
+</div>
 
 ---
 
@@ -20,27 +26,35 @@ Je construis des ponts entre la technique, le business et l'humain. J'utilise la
 
 ## 🛠️ Stack technique
 
+<div align="center">
+
 **Langages & Analyse**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+
+<br>
 
 **Dataviz & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+
+<br>
 
 **Cloud & Outils**
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-**Méthodes**
-Modélisation prédictive (classification, régression) · Machine Learning · EDA · A/B Testing · Clustering · Data Storytelling · P&L Management
+[![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/s3)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://analytics.google.com)
+
+</div>
 
 ---
 
@@ -105,13 +119,20 @@ Modèle de classification pour prédire les conversions newsletter et identifier
 
 ## 🌍 Langues
 
-🇫🇷 Français — Natif | 🏝️ Créole — Natif | 🇬🇧 Anglais — C1/C2
+🇫🇷 Français — Natif &nbsp;|&nbsp; 🏝️ Créole — Natif &nbsp;|&nbsp; 🇬🇧 Anglais — C1/C2
 
 ---
+
+<div align="center">
 
 ## 📬 Me contacter
 
 Je suis ouvert aux opportunités **Business Analyst** et **Data Analyst** sur Genève et Lausanne (frontalier, Permis G).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-isaacprdnt.com-orange?style=for-the-badge)](https://isaacprdnt.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contactez--moi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/isaac-prdnt/)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-isaacprdnt.com-E8784A?style=for-the-badge)](https://isaacprdnt.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contactez--moi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-prdnt/)
+[![Email](https://img.shields.io/badge/Email-isaac.prdnt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac.prdnt@gmail.com)
+
+</div>
