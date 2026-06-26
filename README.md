@@ -68,21 +68,25 @@ Je construis des ponts entre la technique, le business et l'humain. J'utilise la
 
 ## 📂 Projets Data
 
+> Pour une version visuelle et synthétique de chaque projet, retrouvez l'ensemble sur mon portfolio : **[isaacprdnt.com/projets-data](https://isaacprdnt.com/projets-data)**
+
+---
+
 ### 🏦 [Bank Marketing Insights](https://github.com/isaacprdnt/Bank-Marketing-Insights)
 `Python` `Pandas` `Scikit-Learn` `AWS S3` `Streamlit` `MLOps`
 
 Création d'un tableau de bord interactif et modélisation prédictive pour optimiser le ciblage d'une campagne marketing bancaire et maximiser son ROI. Déploiement via Streamlit + AWS S3.
 
-→ **[Voir le projet en détail](https://isaacprdnt.com)**
+📁 [Repo du projet](https://github.com/isaacprdnt/Bank-Marketing-Insights)
 
 ---
 
-### 💔 [Tinder : Le Swipe Paradox](https://github.com/isaacprdnt/tinder-swipe-paradox)
+### 💔 [Tinder : Le Swipe Paradox](https://github.com/isaacprdnt/tinder-swipe-paradox-analysis)
 `Python` `Pandas` `Plotly` `SciPy` `Scikit-Learn`
 
 Analyse de 8 000+ interactions de speed dating pour révéler l'écart entre attentes déclarées et choix réels (Say vs. Do), via EDA et modélisation prédictive orientée stratégie produit.
 
-→ **[Voir le projet en détail](https://isaacprdnt.com)**
+📁 [Repo du projet](https://github.com/isaacprdnt/tinder-swipe-paradox-analysis)
 
 ---
 
@@ -91,16 +95,16 @@ Analyse de 8 000+ interactions de speed dating pour révéler l'écart entre att
 
 Prédiction des ventes hebdomadaires Walmart par indicateurs macroéconomiques. Insight clé : l'inflation (CPI) pèse bien plus que les jours fériés sur les ventes — contre-intuitif et directement exploitable.
 
-→ **[Voir le projet en détail](https://isaacprdnt.com)**
+📁 [Repo du projet](https://github.com/isaacprdnt/walmart-weekly-sales)
 
 ---
 
-### 📈 [Conversion Rate Prediction](https://github.com/isaacprdnt/conversion-rate-prediction)
+### 📈 [Conversion Rate Prediction](https://github.com/isaacprdnt/conversion-rate-challenge)
 `Python` `Pandas` `Scikit-Learn` `Classification` `F1-Score`
 
 Modèle de classification pour prédire les conversions newsletter et identifier les leviers d'acquisition les plus efficaces. Compétition type Kaggle.
 
-→ **[Voir le projet en détail](https://isaacprdnt.com)**
+📁 [Repo du projet](https://github.com/isaacprdnt/conversion-rate-challenge)
 
 ---
 
